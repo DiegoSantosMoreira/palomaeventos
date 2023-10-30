@@ -108,16 +108,16 @@ body {
     margin-bottom: 25px;
 }
 .contact-icons {
-    font-size: 18px;
-    display: flex;
-    justify-content: space-between;
+    font-size: 35px;
+    
 }
 .contact-icons ul{
     display: flex;
     max-width: 95%;
-    justify-content: space-between;
+    justify-content: flex-end;
     list-style: none;
-    padding: 15px;
+    gap: 10px;
+    margin: 20px auto;
 }
 
 .contact-icons a {
